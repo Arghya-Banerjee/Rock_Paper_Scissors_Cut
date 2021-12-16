@@ -22,6 +22,8 @@ To deploy this project you dont need to install any modules
 
 ## Running the project
 
+Open any terminal or the default terminal in VS CODE and type the following
+
 ```bash
   python.exe main.py
 ```
